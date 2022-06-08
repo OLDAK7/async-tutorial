@@ -1,0 +1,25 @@
+{
+  "name": "async-programms",
+  "version": "1.0.0",
+  "description": "async tutorial",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "asyncJs"
+  ],
+  "author": "Almaz Karimov <almaz.karimovriddle@mail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "lodash": "^4.17.21",
+    "node-html-parser": "^5.3.3",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
